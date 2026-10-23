@@ -1,0 +1,14 @@
+{
+  "_source": "https://rde.stanford.edu/dining-hospitality/dining-locations-hours (Fall Hours; verify each quarter)",
+  "halls": {
+    "Arrillaga":     {"name": "Arrillaga Family Dining Commons", "weekday": {"Breakfast": ["07:30","10:00"], "Lunch": ["11:00","15:00"], "Dinner": ["17:00","20:30"]}, "weekend": {"Brunch": ["09:30","13:30"], "Dinner": ["17:00","20:00"]}},
+    "Branner":       {"name": "Branner Dining", "weekday": {"Lunch": ["11:00","13:30"], "Dinner": ["17:00","19:00"]}, "weekend": null},
+    "EVGR":          {"name": "EVGR Dining", "weekday": null, "weekend": null},
+    "FlorenceMoore": {"name": "Florence Moore Dining", "weekday": {"Breakfast": ["07:30","09:00"], "Lunch": ["11:00","13:30"], "Dinner": ["17:00","20:00"]}, "weekend": {"Brunch": ["10:30","13:30"], "Dinner": ["17:00","20:00"]}},
+    "GerhardCasper": {"name": "Gerhard Casper Dining", "weekday": {"Lunch": ["11:00","13:30"], "Dinner": ["17:00","20:00"]}, "weekend": null},
+    "Lakeside":      {"name": "Lakeside Dining", "weekday": {"Breakfast": ["07:30","10:00"], "Lunch": ["11:00","14:00"], "Dinner": ["17:00","20:30"]}, "weekend": {"Brunch": ["09:30","13:30"], "Dinner": ["17:00","20:00"]}},
+    "Ricker":        {"name": "Ricker Dining", "weekday": {"Breakfast": ["07:30","09:00"], "Lunch": ["11:00","13:30"], "Dinner": ["17:00","20:00"]}, "weekend": {"Brunch": ["10:30","13:30"], "Dinner": ["17:00","20:00"]}},
+    "Stern":         {"name": "Stern Dining", "weekday": {"Breakfast": ["07:30","09:00"], "Lunch": ["11:00","13:30"], "Dinner": ["17:00","20:00"]}, "weekend": {"Brunch": ["10:30","13:30"], "Dinner": ["17:00","20:00"]}},
+    "Wilbur":        {"name": "Wilbur Dining", "weekday": {"Breakfast": ["07:30","09:00"], "Lunch": ["11:00","13:30"], "Dinner": ["17:00","20:00"]}, "weekend": {"Brunch": ["10:30","13:30"], "Dinner": ["17:00","20:00"]}}
+  }
+}

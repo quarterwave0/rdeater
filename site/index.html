@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stanford Dining Today</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Stanford Dining</h1>
+  <div id="when"></div>
+  <div id="meals" class="chips" role="tablist"></div>
+  <div class="row">
+    <input id="q" type="search" placeholder="Search dishes (e.g. tofu, pasta)…">
+    <label><input type="checkbox" id="fV"> Vegetarian</label>
+    <label><input type="checkbox" id="fVGN"> Vegan</label>
+    <label><input type="checkbox" id="fGF"> Gluten-free</label>
+  </div>
+</header>
+<main id="halls"></main>
+<footer>
+  <span id="stamp"></span> · Data from <a href="https://rdeapps.stanford.edu/dininghallmenu/">R&amp;DE</a>, refreshed a few times a day.
+  Allergen info can change; confirm with the hall. Unofficial.
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
