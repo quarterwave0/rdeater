@@ -1,9 +1,154 @@
 {
- "generated_at": "2026-10-23T13:34:49-07:00",
+ "generated_at": "2026-10-23T17:52:29-07:00",
  "date": "10/23/2026",
  "halls": {
   "Arrillaga": {
    "meals": {
+    "Breakfast": [
+     {
+      "name": "Steel Cut Oatmeal",
+      "description": "",
+      "ingredients": "steel cut oats",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Chef's Choice Overnight Oats",
+      "description": "",
+      "ingredients": "",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": false,
+      "v": false,
+      "vgn": false
+     },
+     {
+      "name": "Scrambled Eggs",
+      "description": "",
+      "ingredients": "eggs, canola/olive oil blend, salt",
+      "allergens": "EGG",
+      "trace": "COCONUT, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Hard Boiled Eggs",
+      "description": "",
+      "ingredients": "eggs",
+      "allergens": "EGG",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Breakfast Burrito",
+      "description": "",
+      "ingredients": "tortilla, eggs, cheese, black beans, seasonal vegetables, canola/olive oil blend, salt, pepper",
+      "allergens": "EGG, MILK, SOY, WHEAT",
+      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Chicken Apple Sausage",
+      "description": "",
+      "ingredients": "chicken, apples, salt, sugar, dextrose, spices, cultured whey, paprika, soybean oil, (non-halal) sheep casing",
+      "allergens": "MILK, SOY",
+      "trace": "WHEAT",
+      "mindful": "",
+      "gf": false,
+      "v": false,
+      "vgn": false
+     },
+     {
+      "name": "Breakfast Potatoes",
+      "description": "",
+      "ingredients": "potatoes, onions, oil (canola oil, sunflower seed oil, cotton seed oil, palm oil, corn oil, or soybean oil), salt, disodium dihydrogen pyrophosphate, dextrose",
+      "allergens": "SOY",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Tasty Tofu Scramble",
+      "description": "",
+      "ingredients": "tofu, seasonal vegetables, canola/olive oil blend, salt, pepper, turmeric, garlic",
+      "allergens": "SOY",
+      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS, WHEAT",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Buttermilk Pancakes",
+      "description": "",
+      "ingredients": "wheat flour, malted barley flour, enzymes, ascorbic acid, sugar, soy flour, sodium bicarbonate, sodium aluminum phosphate, aluminum sulfate, monocalcium phosphate, canola or soybean oil, dextrose, salt, buttermilk, mono-diglycerides, soy lecithin, eggs",
+      "allergens": "EGG, MILK, SOY, WHEAT",
+      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Waffles",
+      "description": "",
+      "ingredients": "enriched wheat flour, sugar, soybean oil, leavings, buckwheat flour, buttermilk, natural flavors, artificial flavors, wheat bran, rice flour, yellow corn flour, whole oat flour, whey, whole egg, salt, dextrose, wheat starch, natural flavors, artificial flavor, malted barley flour, lactic acid",
+      "allergens": "EGG, MILK, SOY, WHEAT",
+      "trace": "",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Gluten-Free Waffles",
+      "description": "",
+      "ingredients": "white rice flour, degerminated corn flour, cane sugar, soy flour, baking powder, canola oil, salt, natural flavor, xanthan gum",
+      "allergens": "SOY",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Seasonal Fruit",
+      "description": "",
+      "ingredients": "seasonal fresh fruit",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Assorted Allergy-Friendly Items",
+      "description": "",
+      "ingredients": "sliced bread, alternative milk, vegan yogurt, chia seed puddings, overnight oats, seed bars, granola, and/or condiments) Free from the top food allergens. Please refer to packaging for ingredient information",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     }
+    ],
     "Lunch": [
      {
       "name": "Carolina Pulled Pork",
@@ -2082,11 +2227,11 @@
     ],
     "Dinner": [
      {
-      "name": "Parmesan Crusted Cod",
+      "name": "Crispy Cod",
       "description": "",
-      "ingredients": "cod, parmesan, panko, paprika, garlic powder, parsley, canola oil, salt, and pepper",
+      "ingredients": "battered cod (cod, wheat flour, canola oil, corn flour, whey (milk), sugar, turmeric, paprika, salt, white pepper, black pepper)",
       "allergens": "FISH, MILK, WHEAT",
-      "trace": "",
+      "trace": "COCONUT, EGG, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS",
       "mindful": "",
       "gf": false,
       "v": false,
