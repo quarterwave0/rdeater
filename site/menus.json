@@ -1,159 +1,14 @@
 {
- "generated_at": "2026-10-23T17:52:29-07:00",
- "date": "10/23/2026",
+ "generated_at": "2026-10-24T09:09:53-07:00",
+ "date": "10/24/2026",
  "halls": {
   "Arrillaga": {
    "meals": {
-    "Breakfast": [
+    "Dinner": [
      {
-      "name": "Steel Cut Oatmeal",
+      "name": "O\u02bbahu Kalua Pork Plate",
       "description": "",
-      "ingredients": "steel cut oats",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Chef's Choice Overnight Oats",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Scrambled Eggs",
-      "description": "",
-      "ingredients": "eggs, canola/olive oil blend, salt",
-      "allergens": "EGG",
-      "trace": "COCONUT, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Hard Boiled Eggs",
-      "description": "",
-      "ingredients": "eggs",
-      "allergens": "EGG",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Burrito",
-      "description": "",
-      "ingredients": "tortilla, eggs, cheese, black beans, seasonal vegetables, canola/olive oil blend, salt, pepper",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Chicken Apple Sausage",
-      "description": "",
-      "ingredients": "chicken, apples, salt, sugar, dextrose, spices, cultured whey, paprika, soybean oil, (non-halal) sheep casing",
-      "allergens": "MILK, SOY",
-      "trace": "WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Potatoes",
-      "description": "",
-      "ingredients": "potatoes, onions, oil (canola oil, sunflower seed oil, cotton seed oil, palm oil, corn oil, or soybean oil), salt, disodium dihydrogen pyrophosphate, dextrose",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Tasty Tofu Scramble",
-      "description": "",
-      "ingredients": "tofu, seasonal vegetables, canola/olive oil blend, salt, pepper, turmeric, garlic",
-      "allergens": "SOY",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Buttermilk Pancakes",
-      "description": "",
-      "ingredients": "wheat flour, malted barley flour, enzymes, ascorbic acid, sugar, soy flour, sodium bicarbonate, sodium aluminum phosphate, aluminum sulfate, monocalcium phosphate, canola or soybean oil, dextrose, salt, buttermilk, mono-diglycerides, soy lecithin, eggs",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Waffles",
-      "description": "",
-      "ingredients": "enriched wheat flour, sugar, soybean oil, leavings, buckwheat flour, buttermilk, natural flavors, artificial flavors, wheat bran, rice flour, yellow corn flour, whole oat flour, whey, whole egg, salt, dextrose, wheat starch, natural flavors, artificial flavor, malted barley flour, lactic acid",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Gluten-Free Waffles",
-      "description": "",
-      "ingredients": "white rice flour, degerminated corn flour, cane sugar, soy flour, baking powder, canola oil, salt, natural flavor, xanthan gum",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Fruit",
-      "description": "",
-      "ingredients": "seasonal fresh fruit",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Assorted Allergy-Friendly Items",
-      "description": "",
-      "ingredients": "sliced bread, alternative milk, vegan yogurt, chia seed puddings, overnight oats, seed bars, granola, and/or condiments) Free from the top food allergens. Please refer to packaging for ingredient information",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Lunch": [
-     {
-      "name": "Carolina Pulled Pork",
-      "description": "",
-      "ingredients": "pork, apple cider vinegar, onions, brown sugar, mustard powder, crushed red pepper, olive/canola oil blend, salt, black pepper",
+      "ingredients": "(non-halal) pork shoulder, salt, garlic, onions, olive/canola oil blend, liquid smoke, banana leaves, black pepper, cabbage, green onions, caramelized onions (onions, oil, salt)",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -162,15 +17,15 @@
       "vgn": false
      },
      {
-      "name": "Smoky BBQ Jackfruit & Pinto Bean",
+      "name": "Plant-Forward Loco Moco & Gravy",
       "description": "",
-      "ingredients": "jackfruit, pinto beans, tomato sauce, onions, apple cider vinegar, brown sugar, smoked paprika, garlic, chili powder, mustard powder, cumin, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
+      "ingredients": "Beyond burger patty, vegan eggs, furikake, caramelized onion gravy (onions, oil blend, flour, vegetable soup base, canola oil, thyme, bay leaf), teriyaki glaze (pineapple juice, corn starch, garlic, ginger, canola oil, tamari sauce, sugar), green onions, sesame oil, salt, pepper",
+      "allergens": "SESAME, SOY, WHEAT",
+      "trace": "FISH, SHELLFISH",
       "mindful": "",
-      "gf": true,
+      "gf": false,
       "v": true,
-      "vgn": true
+      "vgn": false
      },
      {
       "name": "Seasonal Steamed Vegetables",
@@ -195,9 +50,9 @@
       "vgn": true
      },
      {
-      "name": "Charred Corn & Okra Succotash",
+      "name": "Saut\u00e9ed Gai Lan with Garlic",
       "description": "",
-      "ingredients": "corn, okra, onions, bell peppers, tomatoes, garlic, parsley, olive/canola oil blend, salt, black pepper",
+      "ingredients": "gai lan, garlic, olive/canola oil blend, salt, pepper",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -206,9 +61,20 @@
       "vgn": true
      },
      {
-      "name": "Hoppin\u2019 John Black-Eyed Peas & Rice",
+      "name": "Hawaiian Macaroni Salad",
       "description": "",
-      "ingredients": "rice, black-eyed peas, onions, celery, bell peppers, vegetable soup base, garlic, smoked paprika, dried thyme, crushed red pepper, olive/canola oil blend, salt, black pepper",
+      "ingredients": "elbow macaroni, mayonnaise, tuna, carrots, whole milk, sweet onion, apple cider vinegar, sugar, salt, black pepper",
+      "allergens": "EGG, FISH, MILK, SOY, WHEAT",
+      "trace": "",
+      "mindful": "",
+      "gf": false,
+      "v": false,
+      "vgn": false
+     },
+     {
+      "name": "Steamed Rice",
+      "description": "",
+      "ingredients": "white rice, salt",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -217,270 +83,15 @@
       "vgn": true
      },
      {
-      "name": "Cajun Sweet Potato Wedges",
+      "name": "Crimson Fire Sauce",
       "description": "",
-      "ingredients": "sweet potatoes, olive/canola oil blend, paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried thyme, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Brioche Bun",
-      "description": "",
-      "ingredients": "enriched flour [wheat, malted barley], sugar, yeast, palm oil, salt, cultured wheat, vinegar, wheat gluten, natural flavors, soybean oil, guar gum, enzymes, corn flour, turmeric, paprika, dextrose, corn starch maltodextrin, dextrin, triglycerides, pea protein, dextrose, maltodextrin, modified food starch",
-      "allergens": "SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Burger Bar",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Chicken",
-      "description": "",
-      "ingredients": "chicken, canola/olive oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Vegan/Vegetarian",
-      "description": "",
-      "ingredients": "chef's choice grilled vegan OR vegetarian option",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Handmade Pizza",
-      "description": "",
-      "ingredients": "wheat flour, yeast, sugar, olive oil, mozzarella cheese, marinara sauce",
-      "allergens": "MILK, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Panini Station",
-      "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Soup of the Day",
-      "description": "",
-      "ingredients": "chef's choice soup of the day",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Assorted Bread",
-      "description": "",
-      "ingredients": "",
+      "ingredients": "gochujang, rice vinegar, tamari, garlic, ginger, sesame oil, sugar, lime juice, sesame seeds",
       "allergens": "SESAME, SOY, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
       "v": true,
       "vgn": true
-     },
-     {
-      "name": "Carolina Vinegar Slaw",
-      "description": "",
-      "ingredients": "cabbage, onions, apple cider vinegar, sugar, celery seed, Dijon mustard, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Craveable Grains",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Flavor Forward Legumes",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Pasta Alfredo",
-      "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, marinara sauce, canola/olive oil blend",
-      "allergens": "SOY, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Penne Pasta (Gluten-Free)",
-      "description": "",
-      "ingredients": "brown rice, rice bran, water",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Dinner": [
-     {
-      "name": "Parmesan Crusted Cod",
-      "description": "",
-      "ingredients": "cod, parmesan, panko, paprika, garlic powder, parsley, canola oil, salt, and pepper",
-      "allergens": "FISH, MILK, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Eggplant Parmesan",
-      "description": "",
-      "ingredients": "eggplant, mushrooms, onions, marinara sauce, bread crumbs, mozzarella cheese, parmesan cheese, canola/olive oil blend, oregano, pepper",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Sauteed Green Beans",
-      "description": "",
-      "ingredients": "green beans, shallots, canola/olive oil blend, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Lemon Herb Rice Pilaf",
-      "description": "",
-      "ingredients": "long grain rice, vegetable soup base, onions, celery, garlic, lemon zest, fresh lemon juice, parsley, green onions, thyme, oregano, bay leaf, olive/canola oil blend, butter, black pepper, salt",
-      "allergens": "MILK",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Roasted Garlic Potatoes",
-      "description": "",
-      "ingredients": "potato, canola/olive oil blend, rosemary, garlic, thyme, parsley, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Caper Beurre Blanc",
-      "description": "",
-      "ingredients": "shallots, white wine vinegar, vegetable soup base, heavy cream, butter, capers, lemon juice, lemon zest, fresh parsley, salt, white pepper, chives",
-      "allergens": "MILK",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
      },
      {
       "name": "Burger Bar",
@@ -593,10 +204,10 @@
       "vgn": true
      },
      {
-      "name": "Pasta Alfredo",
+      "name": "Pasta Pesto",
       "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
+      "ingredients": "pasta, pesto sauce (basil, canola oil, parmesan cheese, extra virgin olive oil, garlic, lemon juice concentrate, natural flavor, ascorbic acid, xanthan gum, soy lecithin, chamomile extract, rosemary extract, salt)",
+      "allergens": "MILK, SOY, WHEAT",
       "trace": "EGG",
       "mindful": "",
       "gf": false,
@@ -629,277 +240,19 @@
    }
   },
   "Branner": {
-   "meals": {
-    "Lunch": [
-     {
-      "name": "Carolina Pulled Pork",
-      "description": "",
-      "ingredients": "pork, apple cider vinegar, onions, brown sugar, mustard powder, crushed red pepper, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Pulled BBQ Jackfruit & King Oyster Sandwich",
-      "description": "",
-      "ingredients": "jackfruit, shredded king oyster mushroom, bbq sauce (tomato paste, sugar, molasses, vinegar, hot sauce, salt, tamarind concentrate, natural smoke flavor, chili powder, spices) GF hamburger bun, coleslaw (cabbage, brown sugar, salt, vinegar, paprika, chili powder, garlic)",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Mountain Farm GF Hamburger Bun",
-      "description": "",
-      "ingredients": "modified tapioca starch, white rice flour, potato starch, corn starch, palm oil, evaporated cane juice, millet flour, dried yeast, modified cellulose, canola oil, sea salt, sorghum flour, xanthan gum, guar gum rice bran extract, cultured dextrose, calcium sulfate, enzymes, ascorbic acid",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Cajun Sweet Potato Wedges",
-      "description": "",
-      "ingredients": "sweet potatoes, olive/canola oil blend, paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried thyme, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Roasted Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Allergen-Friendly Pasta Station",
-      "description": "",
-      "ingredients": "Gluten-Free Penne Pasta (brown rice, rice bran, water)\r\n\r\nSauce of the Day:\r\n\r\nMarinara Sauce (tomatoes, tomato paste, oil, sugar, salt, onion, garlic, spices, citric acid, natural flavor)\r\n\r\nPesto Sauce (olive oil, basil, spinach, kale, nutritional yeast, sunflower seeds)\r\n\r\nAlfredo Sauce (allergen free vegan butter, garbanzo flour, oat milk, nutritional yeast, lemon juice, salt)",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Allergy Friendly Burger Bar",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Allergen Friendly Pizza Station",
-      "description": "",
-      "ingredients": "Meat Pizza of the Day\r\n\r\nVegetable Pizza of the Day",
-      "allergens": "COCONUT",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Panini Station (Branner)",
-      "description": "",
-      "ingredients": "Gluten Free Bread\r\nSliced Turkey\r\nSliced Ham\r\nRoasted Vegetables (Eggplant, Squash, Bell Pepper)\r\nSliced Daiya Cheese \r\nGuacamole Spread",
-      "allergens": "COCONUT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Composed Salad",
-      "description": "",
-      "ingredients": "chef's choice composed salad",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     }
-    ],
-    "Dinner": [
-     {
-      "name": "Homestyle Beef Stew",
-      "description": "",
-      "ingredients": "beef, celery, carrot, onion, beef soup base, tomato, tomato paste, potato starch, canola/olive oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Spicy Potato & Lentil Stew",
-      "description": "",
-      "ingredients": "lentils, onions, spinach, potatoes, tomatoes, vegetable soup base (contains carrots, mushroom, celery), olive oil, garlic, ginger, cumin, tampico chili powder, cayenne pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Steamed Rice",
-      "description": "",
-      "ingredients": "white rice, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Jackfruit & Chickpea Taquitos",
-      "description": "",
-      "ingredients": "jackfruit, garbanzo beans, oil, chicken seasoning, garlic powder, onion powder, chili powder, cumin, corn tortilla",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Cilantro Crema",
-      "description": "",
-      "ingredients": "aquafaba mayo (chickpea water, oil, dijon mustard, garlic), cilantro",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Roasted Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Allergen-Friendly Pasta Station",
-      "description": "",
-      "ingredients": "Gluten-Free Penne Pasta (brown rice, rice bran, water)\r\n\r\nSauce of the Day:\r\n\r\nMarinara Sauce (tomatoes, tomato paste, oil, sugar, salt, onion, garlic, spices, citric acid, natural flavor)\r\n\r\nPesto Sauce (olive oil, basil, spinach, kale, nutritional yeast, sunflower seeds)\r\n\r\nAlfredo Sauce (allergen free vegan butter, garbanzo flour, oat milk, nutritional yeast, lemon juice, salt)",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Grilled Cheese & Tomato Basil Soup",
-      "description": "",
-      "ingredients": "Chef's Line gluten-free bread, Daiya sliced cheddar cheese, non allergen plant based butter\r\n\r\nTomato, tomato paste, red onion, coconut milk, basil, veg base, salt",
-      "allergens": "COCONUT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Panini Station (Branner)",
-      "description": "",
-      "ingredients": "Gluten Free Bread\r\nSliced Turkey\r\nSliced Ham\r\nRoasted Vegetables (Eggplant, Squash, Bell Pepper)\r\nSliced Daiya Cheese \r\nGuacamole Spread",
-      "allergens": "COCONUT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Composed Salad",
-      "description": "",
-      "ingredients": "chef's choice composed salad",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     }
-    ]
-   }
+   "meals": {}
   },
   "EVGR": {
    "meals": {}
   },
   "FlorenceMoore": {
    "meals": {
-    "Breakfast": [
+    "Dinner": [
      {
-      "name": "Steel Cut Oatmeal",
+      "name": "German Chicken Schnitzel",
       "description": "",
-      "ingredients": "steel cut oats",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Chef's Choice Overnight Oats",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
+      "ingredients": "chicken, flour, eggs, panko, paprika, garlic powder, onion powder, parsley, lemon zest, olive/canola oil blend, salt, black pepper, lemon wedges",
+      "allergens": "EGG, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
@@ -907,64 +260,9 @@
       "vgn": false
      },
      {
-      "name": "Scrambled Eggs",
+      "name": "Twice Fried Eggplant",
       "description": "",
-      "ingredients": "eggs, canola/olive oil blend, salt",
-      "allergens": "EGG",
-      "trace": "COCONUT, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Hard Boiled Eggs",
-      "description": "",
-      "ingredients": "eggs",
-      "allergens": "EGG",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Burrito",
-      "description": "",
-      "ingredients": "tortilla, eggs, cheese, black beans, seasonal vegetables, canola/olive oil blend, salt, pepper",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Chicken Apple Sausage",
-      "description": "",
-      "ingredients": "chicken, apples, salt, sugar, dextrose, spices, cultured whey, paprika, soybean oil, (non-halal) sheep casing",
-      "allergens": "MILK, SOY",
-      "trace": "WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Potatoes",
-      "description": "",
-      "ingredients": "potatoes, onions, oil (canola oil, sunflower seed oil, cotton seed oil, palm oil, corn oil, or soybean oil), salt, disodium dihydrogen pyrophosphate, dextrose",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Tasty Tofu Scramble",
-      "description": "",
-      "ingredients": "tofu, seasonal vegetables, canola/olive oil blend, salt, pepper, turmeric, garlic",
+      "ingredients": "eggplant, garlic, tamari sauce, green onion, bell pepper, vegetarian oyster sauce, fried in canola oil",
       "allergens": "SOY",
       "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS, WHEAT",
       "mindful": "",
@@ -973,31 +271,42 @@
       "vgn": true
      },
      {
-      "name": "Buttermilk Pancakes",
+      "name": "Seasonal Steamed Vegetables",
       "description": "",
-      "ingredients": "wheat flour, malted barley flour, enzymes, ascorbic acid, sugar, soy flour, sodium bicarbonate, sodium aluminum phosphate, aluminum sulfate, monocalcium phosphate, canola or soybean oil, dextrose, salt, buttermilk, mono-diglycerides, soy lecithin, eggs",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Waffles",
-      "description": "",
-      "ingredients": "enriched wheat flour, sugar, soybean oil, leavings, buckwheat flour, buttermilk, natural flavors, artificial flavors, wheat bran, rice flour, yellow corn flour, whole oat flour, whey, whole egg, salt, dextrose, wheat starch, natural flavors, artificial flavor, malted barley flour, lactic acid",
-      "allergens": "EGG, MILK, SOY, WHEAT",
+      "ingredients": "seasonal vegetables, salt",
+      "allergens": "",
       "trace": "",
       "mindful": "",
-      "gf": false,
+      "gf": true,
       "v": true,
-      "vgn": false
+      "vgn": true
      },
      {
-      "name": "Gluten-Free Waffles",
+      "name": "Seasonal Vegetable Board",
       "description": "",
-      "ingredients": "white rice flour, degerminated corn flour, cane sugar, soy flour, baking powder, canola oil, salt, natural flavor, xanthan gum",
+      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Saut\u00e9ed Gai Lan with Garlic",
+      "description": "",
+      "ingredients": "gai lan, garlic, olive/canola oil blend, salt, pepper",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Dill Potato Salad",
+      "description": "",
+      "ingredients": "potatoes, radicchio, frisee lettuce, chicory, dill, italian dressing (soybean oil, distilled vinegar, high fructose corn syrup, corn syrup, salt, garlic, corn syrup solids, xanthan gum, lemon juice concentrate, spice, red bell pepper, paprika, fd&c yellow no.5, fd&c yellow No.6)",
       "allergens": "SOY",
       "trace": "",
       "mindful": "",
@@ -1006,155 +315,10 @@
       "vgn": true
      },
      {
-      "name": "Seasonal Fruit",
+      "name": "Sp\u00e4tzle",
       "description": "",
-      "ingredients": "seasonal fresh fruit",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Assorted Allergy-Friendly Items",
-      "description": "",
-      "ingredients": "sliced bread, alternative milk, vegan yogurt, chia seed puddings, overnight oats, seed bars, granola, and/or condiments) Free from the top food allergens. Please refer to packaging for ingredient information",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Lunch": [
-     {
-      "name": "Carolina Pulled Pork",
-      "description": "",
-      "ingredients": "pork, apple cider vinegar, onions, brown sugar, mustard powder, crushed red pepper, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Smoky BBQ Jackfruit & Pinto Bean",
-      "description": "",
-      "ingredients": "jackfruit, pinto beans, tomato sauce, onions, apple cider vinegar, brown sugar, smoked paprika, garlic, chili powder, mustard powder, cumin, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Charred Corn & Okra Succotash",
-      "description": "",
-      "ingredients": "corn, okra, onions, bell peppers, tomatoes, garlic, parsley, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Hoppin\u2019 John Black-Eyed Peas & Rice",
-      "description": "",
-      "ingredients": "rice, black-eyed peas, onions, celery, bell peppers, vegetable soup base, garlic, smoked paprika, dried thyme, crushed red pepper, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Cajun Sweet Potato Wedges",
-      "description": "",
-      "ingredients": "sweet potatoes, olive/canola oil blend, paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried thyme, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Brioche Bun",
-      "description": "",
-      "ingredients": "enriched flour [wheat, malted barley], sugar, yeast, palm oil, salt, cultured wheat, vinegar, wheat gluten, natural flavors, soybean oil, guar gum, enzymes, corn flour, turmeric, paprika, dextrose, corn starch maltodextrin, dextrin, triglycerides, pea protein, dextrose, maltodextrin, modified food starch",
-      "allergens": "SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Burger Bar",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Chicken",
-      "description": "",
-      "ingredients": "chicken, canola/olive oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Vegan/Vegetarian",
-      "description": "",
-      "ingredients": "chef's choice grilled vegan OR vegetarian option",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Handmade Pizza",
-      "description": "",
-      "ingredients": "wheat flour, yeast, sugar, olive oil, mozzarella cheese, marinara sauce",
-      "allergens": "MILK, WHEAT",
+      "ingredients": "water, enriched wheat flour, eggs, enriched durum wheat flour, wheat gluten, salt, turmeric",
+      "allergens": "EGG, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
@@ -1162,215 +326,15 @@
       "vgn": false
      },
      {
-      "name": "Panini Station",
+      "name": "Crimson Fire Sauce",
       "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Soup of the Day",
-      "description": "",
-      "ingredients": "chef's choice soup of the day",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Assorted Bread",
-      "description": "",
-      "ingredients": "",
+      "ingredients": "gochujang, rice vinegar, tamari, garlic, ginger, sesame oil, sugar, lime juice, sesame seeds",
       "allergens": "SESAME, SOY, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
       "v": true,
       "vgn": true
-     },
-     {
-      "name": "Carolina Vinegar Slaw",
-      "description": "",
-      "ingredients": "cabbage, onions, apple cider vinegar, sugar, celery seed, Dijon mustard, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Craveable Grains",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Flavor Forward Legumes",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Pasta Alfredo",
-      "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, marinara sauce, canola/olive oil blend",
-      "allergens": "SOY, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Penne Pasta (Gluten-Free)",
-      "description": "",
-      "ingredients": "brown rice, rice bran, water",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Dinner": [
-     {
-      "name": "Parmesan Crusted Cod",
-      "description": "",
-      "ingredients": "cod, parmesan, panko, paprika, garlic powder, parsley, canola oil, salt, and pepper",
-      "allergens": "FISH, MILK, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Vegetarian Lasagna",
-      "description": "",
-      "ingredients": "lasagna noodles, carrots, parmesan cheese, romano cheese, mozzarella cheese, spinach, cream, broccoli, mozzarella cheese blend, bread crumbs, soybean oil, modified food starch, vegetable base, sugar, soybean oil, salt, maltodextrin, modified corn starch, natural flavoring, wheat flour, salt, sugar, egg whites, crushed garlic, spices, mushroom base, paprika",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Sauteed Green Beans",
-      "description": "",
-      "ingredients": "green beans, shallots, canola/olive oil blend, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Lemon Herb Rice Pilaf",
-      "description": "",
-      "ingredients": "long grain rice, vegetable soup base, onions, celery, garlic, lemon zest, fresh lemon juice, parsley, green onions, thyme, oregano, bay leaf, olive/canola oil blend, butter, black pepper, salt",
-      "allergens": "MILK",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Roasted Garlic Potatoes",
-      "description": "",
-      "ingredients": "potato, canola/olive oil blend, rosemary, garlic, thyme, parsley, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Caper Beurre Blanc",
-      "description": "",
-      "ingredients": "shallots, white wine vinegar, vegetable soup base, heavy cream, butter, capers, lemon juice, lemon zest, fresh parsley, salt, white pepper, chives",
-      "allergens": "MILK",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Burger Bar",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
      },
      {
       "name": "Grilled Chicken",
@@ -1472,10 +436,10 @@
       "vgn": true
      },
      {
-      "name": "Pasta Alfredo",
+      "name": "Pasta Pesto",
       "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
+      "ingredients": "pasta, pesto sauce (basil, canola oil, parmesan cheese, extra virgin olive oil, garlic, lemon juice concentrate, natural flavor, ascorbic acid, xanthan gum, soy lecithin, chamomile extract, rosemary extract, salt)",
+      "allergens": "MILK, SOY, WHEAT",
       "trace": "EGG",
       "mindful": "",
       "gf": false,
@@ -1508,741 +472,28 @@
    }
   },
   "GerhardCasper": {
-   "meals": {
-    "Lunch": [
-     {
-      "name": "Carnitas",
-      "description": "",
-      "ingredients": "(non-halal) pork, onions, garlic, bay leaf, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Jackfruit Carnitas",
-      "description": "",
-      "ingredients": "jackfruit, oil, onion, tomato paste, soy sauce, cumin, oregano, paprika, garlic powder, brown sugar, salt, orange juice, lime juice, liquid smoke",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Elote",
-      "description": "",
-      "ingredients": "corn on the cob, crema, mayonnaise, lime juice, cotija cheese (milk, salt, enzymes), canola/olive oil blend, epazote, tajin chile seasoning, salt",
-      "allergens": "MILK, SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Frijoles Pintos",
-      "description": "",
-      "ingredients": "pinto beans, onions, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Arroz Rojo",
-      "description": "",
-      "ingredients": "rice, canola/olive oil blend, tomatoes, onions, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "White Corn Tortilla",
-      "description": "",
-      "ingredients": "ground corn treated with lime, propionic acid, sodium phosphate, dextrose",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Burger Bar",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Chicken",
-      "description": "",
-      "ingredients": "chicken, canola/olive oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Plant-Forward Tenders",
-      "description": "",
-      "ingredients": "wheat flour, soy protein isolate, wheat gluten, vegetable oil, potato starch, corn flour, maltodextrin, salt, yeast extract, spices, garlic powder, onion powder, tapioca starch, cornstarch, tricalcium phosphate, natural flavors, leavening agent, paprika extract color, xanthan gum",
-      "allergens": "SOY, WHEAT",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Mushroom & Jack Quesadilla",
-      "description": "",
-      "ingredients": "flour tortilla, jack cheese, mushrooms, onions, canola/olive oil blend, fajita seasoning",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Panini Station",
-      "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Hearty Minestrone",
-      "description": "",
-      "ingredients": "tomato puree, diced tomatoes in tomato juice, potatoes, kidney beans, carrots, green beans, celery, garbanzo beans, zucchini, peas, spinach, pasta, modified food starch, salt, parmesan cheese, gelatin, yeast extract, flour, flavoring, beef stock, spices, corn oil, canola oil, garlic, disodium inosinate, disodium guanylate, dextrose",
-      "allergens": "EGG, MILK, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Assorted Bread",
-      "description": "",
-      "ingredients": "",
-      "allergens": "SESAME, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Carolina Vinegar Slaw",
-      "description": "",
-      "ingredients": "cabbage, onions, apple cider vinegar, sugar, celery seed, Dijon mustard, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, marinara sauce, canola/olive oil blend",
-      "allergens": "SOY, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Penne Pasta (Gluten-Free)",
-      "description": "",
-      "ingredients": "brown rice, rice bran, water",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Dinner": [
-     {
-      "name": "San Francisco Cioppino",
-      "description": "",
-      "ingredients": "clams, mussels, calamari, shrimp, onion, celery, garlic, bell peppers, fennel, tomatoes, clam juice, cioppino sauce (fennel, red pepper flake, tomatoes, tomato paste, white wine vinegar, bay leaf, parsley, oregano, pepper, clam paste, bell pepper, canola/olive oil blend, salt, garlic)",
-      "allergens": "FISH, MILK, SHELLFISH, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Eggplant Parmesan",
-      "description": "",
-      "ingredients": "eggplant, mushrooms, onions, marinara sauce, bread crumbs, mozzarella cheese, parmesan cheese, canola/olive oil blend, oregano, pepper",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Sauteed Green Beans",
-      "description": "",
-      "ingredients": "green beans, shallots, canola/olive oil blend, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Angel Hair Pasta with Lemon & Garlic",
-      "description": "",
-      "ingredients": "pasta, garlic, canola/olive oil blend, herbs, lemon juice, salt",
-      "allergens": "WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Roasted Garlic Potatoes",
-      "description": "",
-      "ingredients": "potato, canola/olive oil blend, rosemary, garlic, thyme, parsley, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Garlic&Herb Foccacia",
-      "description": "",
-      "ingredients": "ap flour, sugar, salt, yeast, olive oil, garlic, rosemary, thyme, water",
-      "allergens": "WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Grilled Chicken",
-      "description": "",
-      "ingredients": "chicken, canola/olive oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Tofu Patty",
-      "description": "",
-      "ingredients": "tofu, canola oil, salt, and pepper",
-      "allergens": "SOY",
-      "trace": "EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Panini Station",
-      "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Bebida Caliente (Hot Chocolate)",
-      "description": "",
-      "ingredients": "hot chocolate mix (sugar, cocoa liquor, cinnamon, soy lecithin, caramel, sodium bicarbonate, polyglycerol polyricinoleate, sorbic acid, salt), sugar, cinnamon spice, corn flour",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Hearty Minestrone",
-      "description": "",
-      "ingredients": "tomato puree, diced tomatoes in tomato juice, potatoes, kidney beans, carrots, green beans, celery, garbanzo beans, zucchini, peas, spinach, pasta, modified food starch, salt, parmesan cheese, gelatin, yeast extract, flour, flavoring, beef stock, spices, corn oil, canola oil, garlic, disodium inosinate, disodium guanylate, dextrose",
-      "allergens": "EGG, MILK, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Assorted Bread",
-      "description": "",
-      "ingredients": "",
-      "allergens": "SESAME, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Composed Salad",
-      "description": "",
-      "ingredients": "chef's choice composed salad",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, marinara sauce, canola/olive oil blend",
-      "allergens": "SOY, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Penne Pasta (Gluten-Free)",
-      "description": "",
-      "ingredients": "brown rice, rice bran, water",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ]
-   }
+   "meals": {}
   },
   "Lakeside": {
    "meals": {
-    "Breakfast": [
-     {
-      "name": "Steel Cut Oatmeal",
-      "description": "",
-      "ingredients": "steel cut oats",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Chef's Choice Overnight Oats",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Scrambled Eggs",
-      "description": "",
-      "ingredients": "eggs, canola/olive oil blend, salt",
-      "allergens": "EGG",
-      "trace": "COCONUT, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Hard Boiled Eggs",
-      "description": "",
-      "ingredients": "eggs",
-      "allergens": "EGG",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Burrito",
-      "description": "",
-      "ingredients": "tortilla, eggs, cheese, black beans, seasonal vegetables, canola/olive oil blend, salt, pepper",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Chicken Apple Sausage",
-      "description": "",
-      "ingredients": "chicken, apples, salt, sugar, dextrose, spices, cultured whey, paprika, soybean oil, (non-halal) sheep casing",
-      "allergens": "MILK, SOY",
-      "trace": "WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Potatoes",
-      "description": "",
-      "ingredients": "potatoes, onions, oil (canola oil, sunflower seed oil, cotton seed oil, palm oil, corn oil, or soybean oil), salt, disodium dihydrogen pyrophosphate, dextrose",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Tasty Tofu Scramble",
-      "description": "",
-      "ingredients": "tofu, seasonal vegetables, canola/olive oil blend, salt, pepper, turmeric, garlic",
-      "allergens": "SOY",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Buttermilk Pancakes",
-      "description": "",
-      "ingredients": "wheat flour, malted barley flour, enzymes, ascorbic acid, sugar, soy flour, sodium bicarbonate, sodium aluminum phosphate, aluminum sulfate, monocalcium phosphate, canola or soybean oil, dextrose, salt, buttermilk, mono-diglycerides, soy lecithin, eggs",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Waffles",
-      "description": "",
-      "ingredients": "enriched wheat flour, sugar, soybean oil, leavings, buckwheat flour, buttermilk, natural flavors, artificial flavors, wheat bran, rice flour, yellow corn flour, whole oat flour, whey, whole egg, salt, dextrose, wheat starch, natural flavors, artificial flavor, malted barley flour, lactic acid",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Gluten-Free Waffles",
-      "description": "",
-      "ingredients": "white rice flour, degerminated corn flour, cane sugar, soy flour, baking powder, canola oil, salt, natural flavor, xanthan gum",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Fruit",
-      "description": "",
-      "ingredients": "seasonal fresh fruit",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Assorted Allergy-Friendly Items",
-      "description": "",
-      "ingredients": "sliced bread, alternative milk, vegan yogurt, chia seed puddings, overnight oats, seed bars, granola, and/or condiments) Free from the top food allergens. Please refer to packaging for ingredient information",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Lunch": [
-     {
-      "name": "BBQ Chicken",
-      "description": "",
-      "ingredients": "chicken, apple cider, sugar, chili powder, onions, liquid smoke, garlic, ketchup, canola/olive oil blend, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Plant-Forward \"Beef\" Stir Fry",
-      "description": "",
-      "ingredients": "plant forward \"beef\", green beans, bell peppers, onions, eggplant, garlic, ginger, tamari sauce, cornstarch, salt, pepper",
-      "allergens": "SESAME, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Cajun Sweet Potato Wedges",
-      "description": "",
-      "ingredients": "sweet potatoes, olive/canola oil blend, paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried thyme, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Hush-puppies",
-      "description": "",
-      "ingredients": "onions, enriched yellow corn meal, enriched bleached flour, soybean oil with dimethylpolysiloxane, sugar, buttermilk, salt, leavening, spice, dried parsley, guar gum, fried in canola oil",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "COCONUT, EGG, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Chili Bar",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Chicken",
-      "description": "",
-      "ingredients": "chicken, canola/olive oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Baked Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, vegetable soup base, garlic, tomato, basil, zucchini, mushroom, salt, canola/olive oil blend",
-      "allergens": "WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Panini Station",
-      "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Craveable Grains",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Flavor Forward Legumes",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Alfredo Sauce",
-      "description": "",
-      "ingredients": "cream, onion, milk powder, butter, parmesan cheese, flour, garlic, nutmeg, onion powder, salt",
-      "allergens": "MILK, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, marinara sauce, canola/olive oil blend",
-      "allergens": "SOY, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Penne Pasta (Gluten-Free)",
-      "description": "",
-      "ingredients": "brown rice, rice bran, water",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
     "Dinner": [
      {
-      "name": "Crispy Cod",
+      "name": "O\u02bbahu Kalua Pork Plate",
       "description": "",
-      "ingredients": "battered cod (cod, wheat flour, canola oil, corn flour, whey (milk), sugar, turmeric, paprika, salt, white pepper, black pepper)",
-      "allergens": "FISH, MILK, WHEAT",
-      "trace": "COCONUT, EGG, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS",
+      "ingredients": "(non-halal) pork shoulder, salt, garlic, onions, olive/canola oil blend, liquid smoke, banana leaves, black pepper, cabbage, green onions, caramelized onions (onions, oil, salt)",
+      "allergens": "",
+      "trace": "",
       "mindful": "",
-      "gf": false,
+      "gf": true,
       "v": false,
       "vgn": false
      },
      {
-      "name": "Eggplant Parmesan",
+      "name": "Plant-Forward Loco Moco & Gravy",
       "description": "",
-      "ingredients": "eggplant, mushrooms, onions, marinara sauce, bread crumbs, mozzarella cheese, parmesan cheese, canola/olive oil blend, oregano, pepper",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "",
+      "ingredients": "Beyond burger patty, vegan eggs, furikake, caramelized onion gravy (onions, oil blend, flour, vegetable soup base, canola oil, thyme, bay leaf), teriyaki glaze (pineapple juice, corn starch, garlic, ginger, canola oil, tamari sauce, sugar), green onions, sesame oil, salt, pepper",
+      "allergens": "SESAME, SOY, WHEAT",
+      "trace": "FISH, SHELLFISH",
       "mindful": "",
       "gf": false,
       "v": true,
@@ -2271,43 +522,10 @@
       "vgn": true
      },
      {
-      "name": "Lemon Herb Rice Pilaf",
+      "name": "Hawaiian Macaroni Salad",
       "description": "",
-      "ingredients": "long grain rice, vegetable soup base, onions, celery, garlic, lemon zest, fresh lemon juice, parsley, green onions, thyme, oregano, bay leaf, olive/canola oil blend, butter, black pepper, salt",
-      "allergens": "MILK",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Roasted Garlic Potatoes",
-      "description": "",
-      "ingredients": "potato, canola/olive oil blend, rosemary, garlic, thyme, parsley, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "BBQ Pork",
-      "description": "",
-      "ingredients": "(non-halal) pork, bbq spice rub (garlic, paprika, salt, pepper, cumin, cayenne pepper, herbs de provence), bbq sauce (ketchup, apple cider vinegar, molasses, dijon mustard, chipotle peppers, adobo sauce, alcohol free tamari, ginger, chili powder, lemon juice, liquid smoke, garlic powder, salt, pepper), liquid smoke",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Baked Potato Bar",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
+      "ingredients": "elbow macaroni, mayonnaise, tuna, carrots, whole milk, sweet onion, apple cider vinegar, sugar, salt, black pepper",
+      "allergens": "EGG, FISH, MILK, SOY, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
@@ -2315,9 +533,9 @@
       "vgn": false
      },
      {
-      "name": "Spicy Green Beans",
+      "name": "Steamed Rice",
       "description": "",
-      "ingredients": "green beans, olive oil, garlic, red pepper flakes, salt",
+      "ingredients": "white rice, salt",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -2326,11 +544,66 @@
       "vgn": true
      },
      {
-      "name": "Panini Station",
+      "name": "Classic Lasagna",
       "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
+      "ingredients": "lasagna noodles, marinara sauce, parmesan cheese, spinach ricotta filling (mushrooms, spinach, onion, ricotta cheese, butter, cream, dry milk powder, water, flour, salt, basil, oregano, white pepper, onion powder, nutmeg)",
+      "allergens": "MILK, SOY, WHEAT",
+      "trace": "EGG",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Vegetarian Lasagna",
+      "description": "",
+      "ingredients": "lasagna noodles, carrots, parmesan cheese, romano cheese, mozzarella cheese, spinach, cream, broccoli, mozzarella cheese blend, bread crumbs, soybean oil, modified food starch, vegetable base, sugar, soybean oil, salt, maltodextrin, modified corn starch, natural flavoring, wheat flour, salt, sugar, egg whites, crushed garlic, spices, mushroom base, paprika",
+      "allergens": "EGG, MILK, SOY, WHEAT",
+      "trace": "",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Garlic Bread",
+      "description": "",
+      "ingredients": "french baguette, unsalted butter, garlic, parsley",
+      "allergens": "MILK, WHEAT",
+      "trace": "EGG, SOY, TREENUTS",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Seasonal Steamed Vegetables",
+      "description": "",
+      "ingredients": "seasonal vegetables, salt",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Quesadilla Bar",
+      "description": "",
+      "ingredients": "",
+      "allergens": "EGG, MILK, SOY, WHEAT",
+      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
+      "mindful": "",
+      "gf": false,
+      "v": true,
+      "vgn": false
+     },
+     {
+      "name": "Soup of the Day",
+      "description": "",
+      "ingredients": "chef's choice soup of the day",
+      "allergens": "",
+      "trace": "",
       "mindful": "",
       "gf": false,
       "v": false,
@@ -2392,10 +665,10 @@
       "vgn": true
      },
      {
-      "name": "Pasta Alfredo",
+      "name": "Pasta Pesto",
       "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
+      "ingredients": "pasta, pesto sauce (basil, canola oil, parmesan cheese, extra virgin olive oil, garlic, lemon juice concentrate, natural flavor, ascorbic acid, xanthan gum, soy lecithin, chamomile extract, rosemary extract, salt)",
+      "allergens": "MILK, SOY, WHEAT",
       "trace": "EGG",
       "mindful": "",
       "gf": false,
@@ -2429,225 +702,12 @@
   },
   "Ricker": {
    "meals": {
-    "Breakfast": [
-     {
-      "name": "Steel Cut Oatmeal",
-      "description": "",
-      "ingredients": "steel cut oats",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Chef's Choice Overnight Oats",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Waffles",
-      "description": "",
-      "ingredients": "enriched wheat flour, sugar, soybean oil, leavings, buckwheat flour, buttermilk, natural flavors, artificial flavors, wheat bran, rice flour, yellow corn flour, whole oat flour, whey, whole egg, salt, dextrose, wheat starch, natural flavors, artificial flavor, malted barley flour, lactic acid",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Gluten-Free Waffles",
-      "description": "",
-      "ingredients": "white rice flour, degerminated corn flour, cane sugar, soy flour, baking powder, canola oil, salt, natural flavor, xanthan gum",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Fruit",
-      "description": "",
-      "ingredients": "seasonal fresh fruit",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Assorted Allergy-Friendly Items",
-      "description": "",
-      "ingredients": "sliced bread, alternative milk, vegan yogurt, chia seed puddings, overnight oats, seed bars, granola, and/or condiments) Free from the top food allergens. Please refer to packaging for ingredient information",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Lunch": [
-     {
-      "name": "LOMO DE CERDO ADOBADO",
-      "description": "",
-      "ingredients": "pork loin, tomatoes, onion, garlic, water, chiles anchos, oil, cinnamon stick, whole black peppercorns, dried oregano, white vinegar, salt,",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Hearty Three Bean Stew",
-      "description": "",
-      "ingredients": "great northern beans, chickpeas, pinto beans, celery, carrot, red onion, tomato, canola oil, olive oil, garlic, curry powder, cumin, pepper, cilantro, mint, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Sauteed Greens",
-      "description": "",
-      "ingredients": "seasonal leafy greens, salt, pepper, canola/olive oil blend",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Roasted Carrots & Brussel Sprouts",
-      "description": "",
-      "ingredients": "brussels sprouts, carrots, onions, olive oil, honey, garlic, salt, rosemary, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Garlic Rice",
-      "description": "",
-      "ingredients": "rice, garlic, canola/olive oil blend",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Yakisoba Noodles",
-      "description": "",
-      "ingredients": "ramen noodles, cabbage, onions, red bell pepper, green onions, vegetarian oyster sauce, A1 sauce, ketchup, sugar, carrots, shiitake mushroom, furikake seasoning (nori seaweed, sesame seeds, salt, sugar, korean red pepper, mushroom seasoning), sesame oil, mayonnaise",
-      "allergens": "EGG, SESAME, SOY, WHEAT",
-      "trace": "COCONUT, FISH, MILK, PEANUTS, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Panini Station",
-      "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Soup of the Day",
-      "description": "",
-      "ingredients": "chef's choice soup of the day",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Assorted Bread",
-      "description": "",
-      "ingredients": "",
-      "allergens": "SESAME, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Spicy Coleslaw",
-      "description": "",
-      "ingredients": "coleslaw blend (cabbage, carrots), onions, red wine vinegar, garlic, jalapeno chili pepper, canola/olive oil blend, cilantro, celery seeds, cayenne pepper, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Craveable Grains",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Flavor Forward Legumes",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
     "Dinner": [
      {
-      "name": "Miso-Glazed Salmon",
+      "name": "Huli Huli Chicken",
       "description": "",
-      "ingredients": "salmon, green onion, miso paste, canola/olive oil blend, lemon, brown sugar, sesame oil, salt, black pepper, sesame seeds",
-      "allergens": "FISH, SESAME, SOY",
+      "ingredients": "chicken, huli huli glaze (pineapple juice, rice vinegar, ginger, chili sauce, cornstarch, mushrooms, brown sugar, garlic, ketchup, sea salt), huli huli sauce (canola oil, molasses, ginger, garlic, black pepper, salt)",
+      "allergens": "",
       "trace": "",
       "mindful": "",
       "gf": true,
@@ -2655,13 +715,13 @@
       "vgn": false
      },
      {
-      "name": "Miso Tofu Bibimbap Bowl",
+      "name": "Huli Huli Chick\u2019n",
       "description": "",
-      "ingredients": "tofu, bibimbap sauce (gochujang paste [sweet rice flour, red pepper powder, millet malt, sea salt, brown rice syrup], sugar, sesame oil, garlic, ginger, tamari sauce, orange juice, chili powder)",
-      "allergens": "SESAME, SOY",
+      "ingredients": "plant-forward chick\u2019n, pineapple, onion, garlic, canola/olive oil blend, salt, pepper, green onions, bell peppers, huli huli sauce (alcohol free tamari, pineapple juice, ketchup, sriracha sauce, brown sugar, rice vinegar, garlic, ginger, cornstarch)",
+      "allergens": "SOY, WHEAT",
       "trace": "",
       "mindful": "",
-      "gf": true,
+      "gf": false,
       "v": true,
       "vgn": true
      },
@@ -2688,31 +748,31 @@
       "vgn": true
      },
      {
-      "name": "Sauteed Green Beans",
+      "name": "Stir Fried Brocooli",
       "description": "",
-      "ingredients": "green beans, shallots, canola/olive oil blend, garlic, salt",
-      "allergens": "",
-      "trace": "",
+      "ingredients": "broccoli, mushrooms, vegetarian oyster sauce, garlic, canola/olive oil blend, salt",
+      "allergens": "SOY, WHEAT",
+      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS",
       "mindful": "",
-      "gf": true,
+      "gf": false,
       "v": true,
       "vgn": true
      },
      {
-      "name": "Lemon Herb Rice Pilaf",
+      "name": "Hawaiian Macaroni Salad",
       "description": "",
-      "ingredients": "long grain rice, vegetable soup base, onions, celery, garlic, lemon zest, fresh lemon juice, parsley, green onions, thyme, oregano, bay leaf, olive/canola oil blend, butter, black pepper, salt",
-      "allergens": "MILK",
+      "ingredients": "elbow macaroni, mayonnaise, tuna, carrots, whole milk, sweet onion, apple cider vinegar, sugar, salt, black pepper",
+      "allergens": "EGG, FISH, MILK, SOY, WHEAT",
       "trace": "",
       "mindful": "",
-      "gf": true,
-      "v": true,
+      "gf": false,
+      "v": false,
       "vgn": false
      },
      {
-      "name": "Roasted Garlic Potatoes",
+      "name": "Steamed Rice",
       "description": "",
-      "ingredients": "potato, canola/olive oil blend, rosemary, garlic, thyme, parsley, salt, pepper",
+      "ingredients": "white rice, salt",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -2798,10 +858,10 @@
       "vgn": true
      },
      {
-      "name": "Pasta Alfredo",
+      "name": "Pasta Pesto",
       "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
+      "ingredients": "pasta, pesto sauce (basil, canola oil, parmesan cheese, extra virgin olive oil, garlic, lemon juice concentrate, natural flavor, ascorbic acid, xanthan gum, soy lecithin, chamomile extract, rosemary extract, salt)",
+      "allergens": "MILK, SOY, WHEAT",
       "trace": "EGG",
       "mindful": "",
       "gf": false,
@@ -2813,66 +873,11 @@
   },
   "Stern": {
    "meals": {
-    "Breakfast": [
+    "Dinner": [
      {
-      "name": "Steel Cut Oatmeal",
+      "name": "O\u02bbahu Kalua Pork Plate",
       "description": "",
-      "ingredients": "steel cut oats",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Chef's Choice Overnight Oats",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Scrambled Eggs",
-      "description": "",
-      "ingredients": "eggs, canola/olive oil blend, salt",
-      "allergens": "EGG",
-      "trace": "COCONUT, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Sausage Power Scramble",
-      "description": "",
-      "ingredients": "eggs, (non-halal) pork sausage, seasonal vegetables, canola/olive oil blend, salt",
-      "allergens": "EGG, MILK, SOY",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Hard Boiled Eggs",
-      "description": "",
-      "ingredients": "eggs",
-      "allergens": "EGG",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Italian Sausage Crumble",
-      "description": "",
-      "ingredients": "(non-halal) pork, spices, salt, sugar, flavoring",
+      "ingredients": "(non-halal) pork shoulder, salt, garlic, onions, olive/canola oil blend, liquid smoke, banana leaves, black pepper, cabbage, green onions, caramelized onions (onions, oil, salt)",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -2881,83 +886,15 @@
       "vgn": false
      },
      {
-      "name": "Huevos Adelita & Roasted Salsa",
+      "name": "Plant-Forward Loco Moco & Gravy",
       "description": "",
-      "ingredients": "eggs, tomatoes, tomatillo, onions, cilantro, garlic, salt, pepper",
-      "allergens": "EGG",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Country Potatoes",
-      "description": "",
-      "ingredients": "potatoes, vegetable oil, canola oil, palm oil, soybean oil, sunflower oil, disodium dihydrogen pyrophosphate, dextrose",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Scrambled Soyrizo & Plant Powered \"Eggs\"",
-      "description": "",
-      "ingredients": "textured soy protein, soybean oil, paprika, sea salt, distilled white vinegar, cultured dextrose, maltodextrin, caramel color, spices, dried red pepper, garlic powder, plant powered \"eggs\" (mung bean protein, canola oil, onion, gellan gum, carrot extractives, natural flavors, turmeric extractives, potassium citrate, salt, soy lecithin, sugar, tapioca syrup, tetrasodium pyrophosphate, transglutaminase, nisin)",
-      "allergens": "SOY",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Blueberry Pancakes",
-      "description": "",
-      "ingredients": "buttermilk pancake mix (wheat flour, malted barley flour, enzymes, sugar, soy flour, sodium bicarbonate, sodium aluminum phosphate, aluminum sulfate, monocalcium phosphate, canola or soybean oil, dextrose, salt, buttermilk, mono-diglycerides, soy lecithin, eggs), canola/olive oil blend, blueberries",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
+      "ingredients": "Beyond burger patty, vegan eggs, furikake, caramelized onion gravy (onions, oil blend, flour, vegetable soup base, canola oil, thyme, bay leaf), teriyaki glaze (pineapple juice, corn starch, garlic, ginger, canola oil, tamari sauce, sugar), green onions, sesame oil, salt, pepper",
+      "allergens": "SESAME, SOY, WHEAT",
+      "trace": "FISH, SHELLFISH",
       "mindful": "",
       "gf": false,
       "v": true,
       "vgn": false
-     },
-     {
-      "name": "Chef's Choice Smoothie",
-      "description": "",
-      "ingredients": "fruit, fruit juice, dairy alternative, and sugar",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     }
-    ],
-    "Lunch": [
-     {
-      "name": "Carolina Pulled Pork",
-      "description": "",
-      "ingredients": "pork, apple cider vinegar, onions, brown sugar, mustard powder, crushed red pepper, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Smoky BBQ Jackfruit & Pinto Bean",
-      "description": "",
-      "ingredients": "jackfruit, pinto beans, tomato sauce, onions, apple cider vinegar, brown sugar, smoked paprika, garlic, chili powder, mustard powder, cumin, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
      },
      {
       "name": "Seasonal Steamed Vegetables",
@@ -2982,9 +919,9 @@
       "vgn": true
      },
      {
-      "name": "Charred Corn & Okra Succotash",
+      "name": "Saut\u00e9ed Gai Lan with Garlic",
       "description": "",
-      "ingredients": "corn, okra, onions, bell peppers, tomatoes, garlic, parsley, olive/canola oil blend, salt, black pepper",
+      "ingredients": "gai lan, garlic, olive/canola oil blend, salt, pepper",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -2993,76 +930,10 @@
       "vgn": true
      },
      {
-      "name": "Hoppin\u2019 John Black-Eyed Peas & Rice",
+      "name": "Hawaiian Macaroni Salad",
       "description": "",
-      "ingredients": "rice, black-eyed peas, onions, celery, bell peppers, vegetable soup base, garlic, smoked paprika, dried thyme, crushed red pepper, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Cajun Sweet Potato Wedges",
-      "description": "",
-      "ingredients": "sweet potatoes, olive/canola oil blend, paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried thyme, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Brioche Bun",
-      "description": "",
-      "ingredients": "enriched flour [wheat, malted barley], sugar, yeast, palm oil, salt, cultured wheat, vinegar, wheat gluten, natural flavors, soybean oil, guar gum, enzymes, corn flour, turmeric, paprika, dextrose, corn starch maltodextrin, dextrin, triglycerides, pea protein, dextrose, maltodextrin, modified food starch",
-      "allergens": "SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Grilled Cheese",
-      "description": "",
-      "ingredients": "texas toast, cheddar cheese, canola/olive oil",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "COCONUT, EGG, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Tomato Basil Soup",
-      "description": "",
-      "ingredients": "vegetable soup base (contains mushrooms), tomato sauce, carrots, onions, celery, sugar, canola/olive oil blend, rice vinegar, garlic, basil, salt, white pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Panini Station",
-      "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Soup of the Day",
-      "description": "",
-      "ingredients": "chef's choice soup of the day",
-      "allergens": "",
+      "ingredients": "elbow macaroni, mayonnaise, tuna, carrots, whole milk, sweet onion, apple cider vinegar, sugar, salt, black pepper",
+      "allergens": "EGG, FISH, MILK, SOY, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
@@ -3070,193 +941,26 @@
       "vgn": false
      },
      {
-      "name": "Assorted Bread",
+      "name": "Steamed Rice",
       "description": "",
-      "ingredients": "",
+      "ingredients": "white rice, salt",
+      "allergens": "",
+      "trace": "",
+      "mindful": "",
+      "gf": true,
+      "v": true,
+      "vgn": true
+     },
+     {
+      "name": "Crimson Fire Sauce",
+      "description": "",
+      "ingredients": "gochujang, rice vinegar, tamari, garlic, ginger, sesame oil, sugar, lime juice, sesame seeds",
       "allergens": "SESAME, SOY, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
       "v": true,
       "vgn": true
-     },
-     {
-      "name": "Carolina Vinegar Slaw",
-      "description": "",
-      "ingredients": "cabbage, onions, apple cider vinegar, sugar, celery seed, Dijon mustard, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Craveable Grains",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Flavor Forward Legumes",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Pasta Alfredo",
-      "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, marinara sauce, canola/olive oil blend",
-      "allergens": "SOY, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Penne Pasta (Gluten-Free)",
-      "description": "",
-      "ingredients": "brown rice, rice bran, water",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Dinner": [
-     {
-      "name": "Herb Crusted Salmon with Remoulade",
-      "description": "",
-      "ingredients": "salmon, canola/olive oil blend, dill, parsley, breadcrumbs, salt, black pepper, remoulade (mayonnaise, lemon juice, dijon mustard, ketchup, pickle relish, shallot, red wine vinegar, parsley, salt, pepper)",
-      "allergens": "EGG, FISH, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Eggplant Parmesan",
-      "description": "",
-      "ingredients": "eggplant, mushrooms, onions, marinara sauce, bread crumbs, mozzarella cheese, parmesan cheese, canola/olive oil blend, oregano, pepper",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Sauteed Green Beans",
-      "description": "",
-      "ingredients": "green beans, shallots, canola/olive oil blend, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Lemon Herb Rice Pilaf",
-      "description": "",
-      "ingredients": "long grain rice, vegetable soup base, onions, celery, garlic, lemon zest, fresh lemon juice, parsley, green onions, thyme, oregano, bay leaf, olive/canola oil blend, butter, black pepper, salt",
-      "allergens": "MILK",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Roasted Garlic Potatoes",
-      "description": "",
-      "ingredients": "potato, canola/olive oil blend, rosemary, garlic, thyme, parsley, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Caper Beurre Blanc",
-      "description": "",
-      "ingredients": "shallots, white wine vinegar, vegetable soup base, heavy cream, butter, capers, lemon juice, lemon zest, fresh parsley, salt, white pepper, chives",
-      "allergens": "MILK",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Chilaquiles with Roasted Tomato Salsa",
-      "description": "",
-      "ingredients": "flour tortilla, eggs, onion, cilantro, cojita cheese, sour cream, roasted tomato salsa (tomatoes, chipotle peppers, adobo sauce, garlic, canola/olive oil blend, salt), radish, garlic, canola/olive oil blend, salt",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
      },
      {
       "name": "Soup of the Day",
@@ -3303,10 +1007,10 @@
       "vgn": false
      },
      {
-      "name": "Pasta Alfredo",
+      "name": "Pasta Pesto",
       "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
+      "ingredients": "pasta, pesto sauce (basil, canola oil, parmesan cheese, extra virgin olive oil, garlic, lemon juice concentrate, natural flavor, ascorbic acid, xanthan gum, soy lecithin, chamomile extract, rosemary extract, salt)",
+      "allergens": "MILK, SOY, WHEAT",
       "trace": "EGG",
       "mindful": "",
       "gf": false,
@@ -3319,28 +1023,6 @@
       "ingredients": "pasta, marinara sauce, canola/olive oil blend",
       "allergens": "SOY, WHEAT",
       "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Crispy Cod Fish Tacos",
-      "description": "",
-      "ingredients": "battered cod (cod, wheat flour, canola oil, corn flour, whey (milk), sugar, turmeric, paprika, salt, white pepper, black pepper)",
-      "allergens": "FISH, MILK, SOY, WHEAT",
-      "trace": "COCONUT, EGG, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Roasted Mushrooms",
-      "description": "",
-      "ingredients": "mixed mushrooms, garlic, thyme, parsley, salt, and pepper",
-      "allergens": "",
-      "trace": "",
       "mindful": "",
       "gf": false,
       "v": true,
@@ -3351,173 +1033,28 @@
   },
   "Wilbur": {
    "meals": {
-    "Breakfast": [
+    "Dinner": [
      {
-      "name": "Steel Cut Oatmeal",
+      "name": "Miso Black Cod",
       "description": "",
-      "ingredients": "steel cut oats",
-      "allergens": "",
+      "ingredients": "black cod (sablefish), white miso paste, brown sugar, tamari, ginger, green onions, sesame seeds",
+      "allergens": "FISH, SESAME, SOY",
       "trace": "",
       "mindful": "",
       "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Chef's Choice Overnight Oats",
-      "description": "",
-      "ingredients": "",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
       "v": false,
       "vgn": false
      },
      {
-      "name": "Scrambled Eggs",
+      "name": "Plant-Forward Loco Moco & Gravy",
       "description": "",
-      "ingredients": "eggs, canola/olive oil blend, salt",
-      "allergens": "EGG",
-      "trace": "COCONUT, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
+      "ingredients": "Beyond burger patty, vegan eggs, furikake, caramelized onion gravy (onions, oil blend, flour, vegetable soup base, canola oil, thyme, bay leaf), teriyaki glaze (pineapple juice, corn starch, garlic, ginger, canola oil, tamari sauce, sugar), green onions, sesame oil, salt, pepper",
+      "allergens": "SESAME, SOY, WHEAT",
+      "trace": "FISH, SHELLFISH",
       "mindful": "",
       "gf": false,
       "v": true,
       "vgn": false
-     },
-     {
-      "name": "Hard Boiled Eggs",
-      "description": "",
-      "ingredients": "eggs",
-      "allergens": "EGG",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Burrito",
-      "description": "",
-      "ingredients": "tortilla, eggs, cheese, black beans, seasonal vegetables, canola/olive oil blend, salt, pepper",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Chicken Apple Sausage",
-      "description": "",
-      "ingredients": "chicken, apples, salt, sugar, dextrose, spices, cultured whey, paprika, soybean oil, (non-halal) sheep casing",
-      "allergens": "MILK, SOY",
-      "trace": "WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Breakfast Potatoes",
-      "description": "",
-      "ingredients": "potatoes, onions, oil (canola oil, sunflower seed oil, cotton seed oil, palm oil, corn oil, or soybean oil), salt, disodium dihydrogen pyrophosphate, dextrose",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Tasty Tofu Scramble",
-      "description": "",
-      "ingredients": "tofu, seasonal vegetables, canola/olive oil blend, salt, pepper, turmeric, garlic",
-      "allergens": "SOY",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Buttermilk Pancakes",
-      "description": "",
-      "ingredients": "wheat flour, malted barley flour, enzymes, ascorbic acid, sugar, soy flour, sodium bicarbonate, sodium aluminum phosphate, aluminum sulfate, monocalcium phosphate, canola or soybean oil, dextrose, salt, buttermilk, mono-diglycerides, soy lecithin, eggs",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "COCONUT, FISH, PEANUTS, SESAME, SHELLFISH, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Waffles",
-      "description": "",
-      "ingredients": "enriched wheat flour, sugar, soybean oil, leavings, buckwheat flour, buttermilk, natural flavors, artificial flavors, wheat bran, rice flour, yellow corn flour, whole oat flour, whey, whole egg, salt, dextrose, wheat starch, natural flavors, artificial flavor, malted barley flour, lactic acid",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Gluten-Free Waffles",
-      "description": "",
-      "ingredients": "white rice flour, degerminated corn flour, cane sugar, soy flour, baking powder, canola oil, salt, natural flavor, xanthan gum",
-      "allergens": "SOY",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Fruit",
-      "description": "",
-      "ingredients": "seasonal fresh fruit",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Assorted Allergy-Friendly Items",
-      "description": "",
-      "ingredients": "sliced bread, alternative milk, vegan yogurt, chia seed puddings, overnight oats, seed bars, granola, and/or condiments) Free from the top food allergens. Please refer to packaging for ingredient information",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Lunch": [
-     {
-      "name": "Southern Seafood Boil",
-      "description": "",
-      "ingredients": "pollock, shrimp, crab meat (fish, wheat starch, potato starch, sugar, crabmeat, tapioca starch, egg whites, salt, artificial crab flavors, carrageenan, carmine, paprika oleoresin), (non-halal) beef pork sausage, potato, corn, teriyaki sauce, cajun spice, unsalted butter",
-      "allergens": "EGG, FISH, MILK, SHELLFISH, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Southern Fried Tofu",
-      "description": "",
-      "ingredients": "tofu, pineapple, alcohol free tamari, \"egg\" substitute, \"milk\" substitute, apple cider vinegar, flour, salt, paprika, ginger, rosemary, thyme, onion powder, cayenne pepper, pepper, canola/olive oil blend, red pepper flakes",
-      "allergens": "SOY, TREENUTS, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
      },
      {
       "name": "Seasonal Steamed Vegetables",
@@ -3542,9 +1079,9 @@
       "vgn": true
      },
      {
-      "name": "Charred Corn & Okra Succotash",
+      "name": "Saut\u00e9ed Gai Lan with Garlic",
       "description": "",
-      "ingredients": "corn, okra, onions, bell peppers, tomatoes, garlic, parsley, olive/canola oil blend, salt, black pepper",
+      "ingredients": "gai lan, garlic, olive/canola oil blend, salt, pepper",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -3553,9 +1090,20 @@
       "vgn": true
      },
      {
-      "name": "Hoppin\u2019 John Black-Eyed Peas & Rice",
+      "name": "Hawaiian Macaroni Salad",
       "description": "",
-      "ingredients": "rice, black-eyed peas, onions, celery, bell peppers, vegetable soup base, garlic, smoked paprika, dried thyme, crushed red pepper, olive/canola oil blend, salt, black pepper",
+      "ingredients": "elbow macaroni, mayonnaise, tuna, carrots, whole milk, sweet onion, apple cider vinegar, sugar, salt, black pepper",
+      "allergens": "EGG, FISH, MILK, SOY, WHEAT",
+      "trace": "",
+      "mindful": "",
+      "gf": false,
+      "v": false,
+      "vgn": false
+     },
+     {
+      "name": "Steamed Rice",
+      "description": "",
+      "ingredients": "white rice, salt",
       "allergens": "",
       "trace": "",
       "mindful": "",
@@ -3564,257 +1112,13 @@
       "vgn": true
      },
      {
-      "name": "Cajun Sweet Potato Wedges",
+      "name": "Crimson Fire Sauce",
       "description": "",
-      "ingredients": "sweet potatoes, olive/canola oil blend, paprika, garlic powder, onion powder, cayenne pepper, dried oregano, dried thyme, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Hawaiian Roll",
-      "description": "",
-      "ingredients": "enriched flour, sugar, liquid sugar, butter, eggs, potato flour, yeast, whey, nonfat milk, soy flour, salt, degerminated yellow corn flour, wheat gluten, sodium stearoyl lactylate, datem, monocalcium phosphate, wheat flour, calcium sulfate, sodium silicoaluminate, ascorbic acid, ammonium sulfate, wheat starch, sorbitan monostearate, enzymes, microcrystalline cellulose, calcium silicate",
-      "allergens": "EGG, MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Chicken",
-      "description": "",
-      "ingredients": "chicken, canola/olive oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Grilled Vegan/Vegetarian",
-      "description": "",
-      "ingredients": "chef's choice grilled vegan OR vegetarian option",
-      "allergens": "",
-      "trace": "COCONUT, EGG, FISH, MILK, PEANUTS, SESAME, SHELLFISH, SOY, TREENUTS, WHEAT",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Handmade Pizza",
-      "description": "",
-      "ingredients": "wheat flour, yeast, sugar, olive oil, mozzarella cheese, marinara sauce",
-      "allergens": "MILK, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Panini Station",
-      "description": "",
-      "ingredients": "(assorted) breads, cheeses, deli meats, lettuce, tomatoes, and onions",
-      "allergens": "EGG, SOY, WHEAT",
-      "trace": "COCONUT, MILK, TREENUTS",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Soup of the Day",
-      "description": "",
-      "ingredients": "chef's choice soup of the day",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Assorted Bread",
-      "description": "",
-      "ingredients": "",
+      "ingredients": "gochujang, rice vinegar, tamari, garlic, ginger, sesame oil, sugar, lime juice, sesame seeds",
       "allergens": "SESAME, SOY, WHEAT",
       "trace": "",
       "mindful": "",
       "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Carolina Vinegar Slaw",
-      "description": "",
-      "ingredients": "cabbage, onions, apple cider vinegar, sugar, celery seed, Dijon mustard, olive/canola oil blend, salt, black pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Performance Bar",
-      "description": "",
-      "ingredients": "Seasonal Assortment of Fresh Vegetables, Salads, Beans, Whole Grains, Hard Boiled Eggs, Baked Chicken, Tofu, Hummus, Spinach",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Craveable Grains",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Flavor Forward Legumes",
-      "description": "",
-      "ingredients": "** No Alliums: this includes garlic, onion, shallots, leeks, chives, scallions/ green onions, and any similar wild varieties, such as ramps. ** No Root vegetables/Tubers: this includes potatoes of any variety, beets, carrots, radishes, turnips, ginger, and fresh turmeric root. ** No Mushrooms/Fungi of any kind.",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Pasta Alfredo",
-      "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": false
-     },
-     {
-      "name": "Pasta Marinara",
-      "description": "",
-      "ingredients": "pasta, marinara sauce, canola/olive oil blend",
-      "allergens": "SOY, WHEAT",
-      "trace": "EGG",
-      "mindful": "",
-      "gf": false,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Penne Pasta (Gluten-Free)",
-      "description": "",
-      "ingredients": "brown rice, rice bran, water",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     }
-    ],
-    "Dinner": [
-     {
-      "name": "Pork Carnitas Burrito Bowl",
-      "description": "",
-      "ingredients": "(non-halal) pork carnitas (pork, onions, garlic, bay leaf, salt), flour tortilla, spanish rice (brown rice, vegetable soup base, onions, bell peppers, garlic, jalapeno peppers, canola/olive oil blend, tomato juice, coriander, cumin, black pepper, cilantro, salt), seasoned pinto beans (pinto beans, onions, garlic salt), avocado salsa, roasted tomato salsa, queso fresco, chipotle crema (cream, milk, chipotle peppers, salt)",
-      "allergens": "MILK, SOY, WHEAT",
-      "trace": "",
-      "mindful": "",
-      "gf": false,
-      "v": false,
-      "vgn": false
-     },
-     {
-      "name": "Mushroom Fajitas",
-      "description": "",
-      "ingredients": "king oyster mushroom, oil, garlic, onion, bell peppers, cumin, oregano, chili powder, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Steamed Vegetables",
-      "description": "",
-      "ingredients": "seasonal vegetables, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Seasonal Vegetable Board",
-      "description": "",
-      "ingredients": "seasonal roasted vegetables with olive/canola oil blend, salt, pepper",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Sauteed Green Beans",
-      "description": "",
-      "ingredients": "green beans, shallots, canola/olive oil blend, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Spanish Rice",
-      "description": "",
-      "ingredients": "white rice, vegetable soup base (contains mushrooms, celery), onions, bell peppers, garlic, jalapeno peppers, canola/olive oil blend, tomato juice, salt, coriander, cumin, pepper, cilantro",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "Frijoles Pintos",
-      "description": "",
-      "ingredients": "pinto beans, onions, garlic, salt",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
-      "v": true,
-      "vgn": true
-     },
-     {
-      "name": "White Corn Tortilla",
-      "description": "",
-      "ingredients": "ground corn treated with lime, propionic acid, sodium phosphate, dextrose",
-      "allergens": "",
-      "trace": "",
-      "mindful": "",
-      "gf": true,
       "v": true,
       "vgn": true
      },
@@ -3929,10 +1233,10 @@
       "vgn": true
      },
      {
-      "name": "Pasta Alfredo",
+      "name": "Pasta Pesto",
       "description": "",
-      "ingredients": "pasta, white sauce (cream, butter, milk powder, flour, garlic, nutmeg, onion powder, white pepper, salt), mozzarella cheese, parmesan cheese",
-      "allergens": "MILK, WHEAT",
+      "ingredients": "pasta, pesto sauce (basil, canola oil, parmesan cheese, extra virgin olive oil, garlic, lemon juice concentrate, natural flavor, ascorbic acid, xanthan gum, soy lecithin, chamomile extract, rosemary extract, salt)",
+      "allergens": "MILK, SOY, WHEAT",
       "trace": "EGG",
       "mindful": "",
       "gf": false,
